@@ -1,7 +1,5 @@
 # Data Science Project Scoping Worksheet
 
----
-
 ## Integrantes Equipo 2
 
 |              Nombre            |  Clave  |
@@ -53,7 +51,7 @@ Al aumentar la tasa de graduados en los distintos distritos se busca reducir la 
 
 |  | Goal | Constraints |
 |-|-|-|
-| 1 | Aumentar la tasa de graduación en tiempo de los estudiantes de preparatoria. | Se asume que se tiene una población de estudio grande y se tiene que:<br/><br/> * Decidir si se quiere atacar a todas las escuelas (nacionalmente) o si se seleccionarán zonas particulares.<br/><br/>  * Verificar si existen zonas donde la tasa sea menor al 65%.<br/><br/> * Definir el presupuesto y el capital humano con el que contamos, para así conocer si  la población de estudiantes que podemos tratar es grande o tenemos que ser más específicos con la ayuda de acuerdo a las necesidades. |
+| 1 | Aumentar la tasa de graduación en tiempo de los estudiantes de preparatoria. | Se asume que se tiene una población de estudio grande y se tiene que:<br/><br/> - Decidir si se quiere atacar a todas las escuelas (nacionalmente) o si se seleccionarán zonas particulares.<br/><br/>  - Verificar si existen zonas donde la tasa sea menor al 65%.<br/><br/> - Definir el presupuesto y el capital humano con el que contamos, para así conocer si  la población de estudiantes que podemos tratar es grande o tenemos que ser más específicos con la ayuda de acuerdo a las necesidades. |
 
 ## 5. Actions
 
@@ -110,8 +108,8 @@ Al aumentar la tasa de graduados en los distintos distritos se busca reducir la 
 
 ## 8. Ethical considerations
 
-|:-|:-|
 | **Privacy:** Are you working with personal and/or sensitive data that is individually identifiable? Mention them. | - Ingresos por hogares <br/>  - Domicilio <br/>  - Matrícula por estudiante |
+|:-|:-|
 | **Transparency:** Which stakeholders should know about which parts of the project? Stakeholders typically include policymakers, frontline workers, people who will be affected by the actions, etc. | - Departamento de Educación de Estados Unidos <br/>  - Comité directivo de cada escuela |
 | **Discrimination/Equity:** Are there any specific groups for whom you want to ensure equity of outcomes?  eg. groups of interest defined by gender, age, localization, social class, educational level, urban/rural, ethnicity | - Raza <br/> - Sexo <br/> - Localización geográfica <br/> - Clases sociales |
 | **Social License:** If the entire population of the country finds out about your project, will they be ok with it? Why? | Impulsar a estudiantes a concluir sus estudios a tiempo. Se considera que los proyectos relacionados con la educación de los jóvenes tienen impacto positivo en la sociedad. |

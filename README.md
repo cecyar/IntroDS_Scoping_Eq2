@@ -110,8 +110,8 @@ Al aumentar la tasa de graduados en los distintos distritos se busca reducir la 
 
 ## 8. Ethical considerations
 
+|:-|:-|
 | **Privacy:** Are you working with personal and/or sensitive data that is individually identifiable? Mention them. | - Ingresos por hogares <br/>  - Domicilio <br/>  - Matrícula por estudiante |
-|-|-|
 | **Transparency:** Which stakeholders should know about which parts of the project? Stakeholders typically include policymakers, frontline workers, people who will be affected by the actions, etc. | - Departamento de Educación de Estados Unidos <br/>  - Comité directivo de cada escuela |
 | **Discrimination/Equity:** Are there any specific groups for whom you want to ensure equity of outcomes?  eg. groups of interest defined by gender, age, localization, social class, educational level, urban/rural, ethnicity | - Raza <br/> - Sexo <br/> - Localización geográfica <br/> - Clases sociales |
 | **Social License:** If the entire population of the country finds out about your project, will they be ok with it? Why? | Impulsar a estudiantes a concluir sus estudios a tiempo. Se considera que los proyectos relacionados con la educación de los jóvenes tienen impacto positivo en la sociedad. |
@@ -125,3 +125,8 @@ Prueba piloto hacia los grupos identificados de un estado en específico con el 
 La tasa de graduados en el ciclo escolar en las escuelas/estados/distritos/ que fueron tratadas vs la tasa de graduados en las mismas escuelas en el ciclo escolar anterior sin tratamiento. 
 
 Dos escuelas con el mismo contexto sociodemográfico, socioeconómico con una tasa similar de graduados. Una escuela recibe el tratamiento y otra no. Medir la tasa de graduados en tiempo y medir si el cambio es significativo. 
+
+## 10. Who are the external organizations and internal departments that will need to be involved?
+
+NR
+

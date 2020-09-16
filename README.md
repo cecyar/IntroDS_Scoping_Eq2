@@ -1,6 +1,6 @@
 # Data Science Project Scoping Worksheet
 
-## Integrantes Equipo 2
+## Equipo 2
 
 |              Nombre            |  Clave  |
 | :----------------------------: | :-----: |
@@ -26,8 +26,8 @@ Departamento de Educación de los Estados Unidos
 
 ### 3.0 Supuestos
 
-El programa está enfocado a estudiantes de último año de los cuales se tiene información de su trayectoria previa.
-Los datos contienen información de las escuelas, sus ex alumnos graduados y no graduados, alumnos actuales, su trayectoria académica así como información sociodemográfica y socioeconómica.
+* El programa está enfocado a estudiantes de último año de los cuales se tiene información de su trayectoria previa.
+* Los datos contienen información de las escuelas, sus ex alumnos graduados y no graduados, alumnos actuales, su trayectoria académica así como información sociodemográfica y socioeconómica.
 
 ### 3.1 What is the problem you are facing?
 
@@ -56,7 +56,7 @@ Al aumentar la tasa de graduados en los distintos distritos se busca reducir la 
 ## 5. Actions
 
 |  | **Action 1** | **Action 2** | **Action 3** |
-|-|:-:|:-:|:-:|
+|-|:-|:-|:-|
 | **Action** | Mentoría | Seminario | Becas y materiales de apoyo |
 | **Who is executing the action?** | Personal académico, estudiantes, personal externo y voluntario | Personal académico de la institución | Distrito escolar, ex-alumnos, padres de familia, gobierno local y federal |
 | **Who/what is the action being taken on?** | Grupos de estudiantes con más alto riesgo (con necesidad de atención más personalizada) | Grupos de estudiantes con mediano riesgo | Estudiantes de grupos vulnerables |

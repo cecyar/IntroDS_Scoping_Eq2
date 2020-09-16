@@ -5,12 +5,12 @@
 |              Nombre            |  Clave  |
 | :----------------------------: | :-----: |
 | Avilés Robles Cecilia          | 197817  |
-| Bazo Pérez Edgar               |  |
-| Fuentes Ortiz Octavio          |  |
-| Gamboa Puente Karina Lizette   |  |
-| Moreno Ortiz Eduardo           |  | 
-| Salgado Velázquez Iván Oswaldo |  | 
-| Torres Ramírez Ana Eréndira    |  | 
+| Bazo Pérez Edgar               | 172061  |
+| Fuentes Ortiz Octavio          | 150792  |
+| Gamboa Puente Karina Lizette   | 197850  |
+| Moreno Ortiz Eduardo           | 151280  | 
+| Salgado Velázquez Iván Oswaldo | 197704  | 
+| Torres Ramírez Ana Eréndira    | 197705  | 
 
 ---
 
@@ -120,7 +120,7 @@ Al aumentar la tasa de graduados en los distintos distritos se busca reducir la 
 
 Prueba piloto hacia los grupos identificados de un estado en específico con el objetivo de evaluar el desempeño de las acciones descritas en los puntos anteriores y medir el impacto de cada una de ellas sobre los grupos. Dicha prueba piloto tendría la duración de un ciclo escolar. 
 
-La tasa de graduados en el ciclo escolar en las escuelas/estados/distritos/ que fueron tratadas vs la tasa de graduados en las mismas escuelas en el ciclo escolar anterior sin tratamiento. 
+La tasa de graduados en el ciclo escolar en las escuelas/estados/distritos/ que fueron tratadas vs. la tasa de graduados en las mismas escuelas en el ciclo escolar anterior sin tratamiento. 
 
 Dos escuelas con el mismo contexto sociodemográfico, socioeconómico con una tasa similar de graduados. Una escuela recibe el tratamiento y otra no. Medir la tasa de graduados en tiempo y medir si el cambio es significativo. 
 

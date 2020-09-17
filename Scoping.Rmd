@@ -1,0 +1,88 @@
+---
+title: "Highschool Graduations"
+author: "Equipo 2"
+date: "17/9/2020"
+output:
+  beamer_presentation: default
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+####Organización: Departamento de educación de los Estados Unidos y comités directivos de las escuelas.
+
+- Las escuelas tienen como desafío ayudar a sus estudiantes a graduarse a tiempo. Actualmente, la tasa de graduación que se tiene registrada es de aproximadamente el 65%. Es de interés, identificar a los estudiantes que corren el riesgo de no graduarse a tiempo.
+
+- Los alumnos y alumnas son el sector más afectado, pues son ellos quienes culminan con los estudios del nivel sobre el cual se está realizando el estudio (_high school_).
+
+- Al aumentar la tasa de graduados en los distintos distritos se busca reducir la deserción escolar y brechas sociales, aumentar el presupuesto que se tiene destinado a educación y generar un mayor bienestar social.
+
+**Supuestos:**
+
+- El programa está enfocado a estudiantes de último año. 
+
+- Los datos contienen información de ex alumnos y su trayectoria académica.
+
+###
+
+## Objetivo
+- Aumentar la tasa de graduación en tiempo de los estudiantes de preparatoria.
+
+**Limitantes**
+
+Se asume que se tiene una población de estudio grande y se tiene que:
+
+- Decidir si se quiere atacar a todas las escuelas (nacionalmente) o si se seleccionarán zonas particulares.
+
+- Verificar si existen zonas donde la tasa sea menor al 65%.
+
+- Definir el presupuesto y el capital humano con el que contamos, para así conocer si  la población de estudiantes que podemos tratar es grande o tenemos que ser más específicos con la ayuda de acuerdo a las necesidades.
+
+## Acciones
+
+- __Mentorías__ semanales presenciales o en línea enfocadas hacia estudiantes que cuentan con riesgos altos de no graduarse a tiempo. Impartidas por parte del personal académico, personal externo y/o voluntarios, así, se llevará al alumno a un menor nivel de riesgo. Esta acción es exclusivamente para alumnos de último año.
+
+- __Seminarios__ semanales o quincenales, presenciales o en línea, dirigido a estudiantes con un nivel de riesgo medio, impartidos por personal académico de la institución.
+
+- __Becas y materiales de apoyo__ para los estudiantes de grupos vulnerables, aportados por el distrito escolar, ex-alumnos, padres de familia, gobierno local y federal. Estos apoyos se otorgarán al inicio de mes y semestre respectivamente.
+
+
+## Datos
+
+### Internos:
+
+- Base de datos del Departamento de Educación de Estados Unidos que incluya información sociodemográfica, socioeconómica y académica de alumnos y ex alumnos cuyas actualizaciones sean por periodos de calificación escolares. Con la matrícula del estudiante y el código postal de cada escuela serán los identificadores únicos. 
+
+###Externos:
+
+- Contamos con bases de datos del porcentaje de abandono de la preparatoria entre los alumnos de 16 a 24 años por raza/etnia y estado, de los años 2013 al 2017 obtenidos del Departamento de Comercio de los EE.UU., Oficina del Censo, Encuesta sobre la comunidad estadounidense.
+
+- Base de delincuencia nacional con información relevante sobre actos delictivos, información por estados, distrito y vecindario. Se actualiza anualmente y cuenta con la clave de estado, distrito y vecindario.
+
+- También sería ideal tener datos acerca de las rutas de transporte, tiempos de traslado y tipo de transporte, así como información socioeconómica de las zonas escolares.
+
+## Análisis 
+
+- __Análisis descriptivo__, nos servirá para obtener conocimientos generales de la estructura de los datos, con este análisis se identificarán relaciones entre variables que se deberán de tomar en cuenta para los análisis posteriores y se validará consultando al cliente.
+
+- __Análisis de clasificación__ para obtener la probabilidad o _score_ de que un alumno se gradúe a tiempo y segmentar en grupos, este análisis nos ayudará a decidir si se le aplica o no un tratamiento al alumno.  
+ 
+
+## Consideraciones éticas
+
+- Los datos sensibles con los que se trabajarán son los ingresos por hogar, el domicilio de la escuela y la matrícula de cada estudiante.
+
+- Los departamentos que tendrán conocimiento del proyecto serán el de Educación de Estados Unidos y el comité directivo de cada escuela.
+
+- La raza/etnia, sexo, localización geográfica y clases sociales son algunos grupos de los que se desea asegurar equidad con los resultados de este proyecto.
+
+- Impulsar a estudiantes a concluir sus estudios a tiempo. Se considera que los proyectos relacionados con la educación de los jóvenes tienen impacto positivo en la sociedad. 
+
+- Para realizar este proyecto se requerirá un aviso de privacidad para el uso de datos de alumnos para la realización del proyecto.
+
+## Prueba piloto y pruebas de control
+
+- Se propone que la prueba sea asignada a los grupos identificados de un Estado en específico, con el objetivo de evaluar el desempeño de las acciones y medir el impacto de cada una de ellas sobre los grupos. La duración de esta prueba será por un ciclo escolar.
+
+- Como pruebas de control se tiene la tasa de graduados en el ciclo escolar dentro de las escuelas/estados/distritos que fueron tratadas vs la tasa de graduados en las mismas escuelas en el ciclo escolar anterior sin tratamiento.
+
+- Pueden crearse grupos de control entre dos escuelas con el mismo contexto sociodemográfico, socioeconómico y con una tasa similar de graduados de manera que una escuela reciba el tratamiento y pueda ser comparada contra la que no lo recibió. 
